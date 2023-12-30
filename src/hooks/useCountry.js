@@ -1,0 +1,5 @@
+function useCountry(name){
+	useEffect(() => {
+
+	}, [])
+}
